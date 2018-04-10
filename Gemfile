@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'rubg'
 gem 'figaro'
 gem 'pg', '0.18.4'
+gem 'rack-cors'
 
 
 group :development, :test do
