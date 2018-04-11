@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-gem 'rubg'
+gem 'rubg', :path => "/home/brock/.rvm/gems/ruby-2.4.1/gems/rubg-0.2.2"
 gem 'figaro'
 gem 'pg', '0.18.4'
 gem 'rack-cors'
