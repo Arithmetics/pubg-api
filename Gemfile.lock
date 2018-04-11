@@ -1,5 +1,5 @@
 PATH
-  remote: /home/brock/.rvm/gems/ruby-2.4.1/gems/rubg-0.2.2
+  remote: vendor/gems/rubg-0.2.2
   specs:
     rubg (0.2.2)
       httparty (~> 0.16.2)
